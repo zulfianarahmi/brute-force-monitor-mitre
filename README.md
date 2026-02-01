@@ -1,4 +1,5 @@
 # Brute Force Global Monitor
+Link Medium : https://medium.com/@zulfianarahmi4/monitoring-serangan-brute-force-global-pakai-python-grafana-1cb8c4070e6b?postPublishedType=repub
 
 Sebuah proyek monitoring keamanan siber mandiri (SIEM) yang dibangun dengan biaya nol rupiah untuk mendeteksi serangan **Brute Force (MITRE ATT&CK T1110)** pada sistem Linux/WSL secara real-time.
 
