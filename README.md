@@ -30,7 +30,7 @@ Sebuah proyek monitoring keamanan siber mandiri (SIEM) yang dibangun dengan biay
 
 1. **Clone Repository**:
 ```bash
-git clone
+git clone zulfianarahmi/brute-force-monitor-mitre
 cd brute-force-global-monitor
 
 ```
